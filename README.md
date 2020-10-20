@@ -10,7 +10,7 @@ To use this bash script you need:
 In order for the script to work change paths to your cloned directory in script, so binary files could be executed.
 
 Put file into desired folder 
-Make it exetutable 
+Make it exeсutable 
 chmod +x ./pdfsq.sh
 and run 
 ./pdfsq.sh
