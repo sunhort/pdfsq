@@ -9,13 +9,13 @@ To use this bash script you need:
 
 In order for the script to work change paths to your cloned directory in script, so binary files could be executed.
 
-Put file into desired folder 
-Make it exeсutable 
+Put file into desired folder, 
+,ake it exeсutable 
 chmod +x ./pdfsq.sh
 and run 
 ./pdfsq.sh
 
 
-The cool thing about script that it can process any files with any software available in Linux and keep the folder fith processed files while adding new files for processing is not a problem because it reads only new files from this folder. I personaly made it for my documents folder on NAS. Sometimes I print interesting articles from the internet into that folder but I don't like the size of certain PDF files so I decided to do a script to help me maintain personal articles collection in the smallest possible size without that much of the visual difference in pictures inside. 
+The cool thing about script that it can process any files with any software available in Linux and keep the folder with processed files, while adding new files for processing is not a problem because it reads only new files from this folder. I personaly made it for my documents folder on NAS. Sometimes I print 2 pdf interesting articles from the internet into that folder but I don't like the size of certain PDF files so I decided to do a script to help me maintain personal articles collection in the smallest possible size without that much of the visual difference in pictures inside. 
 
-To do lossless compression remove ghostscript sections and enjoy.
+To do lossless compression remove ghostscript (or modyfy to default) sections and enjoy.
