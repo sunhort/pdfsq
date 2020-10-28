@@ -1,6 +1,6 @@
 # pdfsq
 ParallesPdfSqueezer
-Script is intended to squeeze pdf files with parallels, ghostscript, pdfsqueeze on multicore machines to reduce compression time. Script has a cache file so directory with your documents can be processed without recompressing files that's are done. Thanks for Kris Occhipinti and Roel Van de Paar from Youtube for their videos of how to handle multiple commands within Parallels single command.
+Script is intended to squeeze pdf files with parallels, ghostscript, pdfsqueeze on multicore machines to reduce compression time. Script has a cache file so directory with your documents can be processed without recompressing files that's already done. Thanks for Kris Occhipinti and Roel Van de Paar from Youtube for their videos of how to handle multiple commands within Parallels single command.
 
 To use this bash script you need:
 1. parallels (apt install parallels)
